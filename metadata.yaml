@@ -1,5 +1,8 @@
 _repo: Bella_75620
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75620-h/images/cover.jpg
 creator:
   author:
     agent_name: Giraudoux, Jean
@@ -20,6 +23,8 @@ description: 'Reading ease score: 68.1 (8th & 9th grade). Neither easy nor diffi
   to read.
 
   Wikipedia page about this book: https://fr.wikipedia.org/wiki/Bella_(roman)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75620#Bella
 gutenberg_bookshelf:
 - 'Browsing: History - European'
 - 'Browsing: Fiction'
